@@ -1,2 +1,3 @@
 # LSTM-Power-usage-predictor
-My old university project from the AI club.
+University research club project
+It's an LSTM model designed to predict power usage for Wroclaw Polytechnic.
